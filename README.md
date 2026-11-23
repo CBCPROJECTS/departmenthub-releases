@@ -10,3 +10,6 @@ Mac (Intel): CBC-Sales-and-Logistics-0.24.0-mac-x64.dmg → drag into Applicatio
 
 
 Linux: CBC-Sales-and-Logistics-0.24.0-linux-x64.AppImage (auto-updates) or .deb
+
+
+(Note for unsigned Macs on first launch: right-click the app in Applications → Open → Open, or allow it in System Settings → Privacy & Security.)
